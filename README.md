@@ -268,7 +268,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - OpenAI Whisper model
 - Hugging Face Transformers library
 - Gradio for the interactive demo interface
-#   F i n e t u n i n g - O p e n - A I - W h i s p e r - m o d e l 
- 
- #   F i n e t u n i n g - O p e n - A I - W h i s p e r - m o d e l  
- 
+#
